@@ -1,4 +1,4 @@
-<h1 align="center">Hello and Welcome 👋, I'm Michael Martin</h1>
+<h1 align="center">👋 Hello and Welcome! I'm Michael Martin</h1>
 <h3 align="center">A resourceful, dedicated, and curious <strong>full-stack engineer<strong></h3>
 
 - 👨‍💻 Come and check my personal website [https://michaelrmartin.github.io](https://michaelrmartin.github.io)
