@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hello and Welcome! I'm Michael Martin</h1>
 <h3 align="center">A resourceful, dedicated, and curious <strong>full-stack engineer<strong></h3>
 
-<p align="left">
 - 👨‍💻 Come and check my personal website [https://michaelrmartin.github.io](https://michaelrmartin.github.io)
-
+  
 - 📫 How to reach me **michael.martin.815@gmail.com**
-  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
