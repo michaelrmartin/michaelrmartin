@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello and Welcome! I'm Michael Martin</h1>
-<h3 align="center">A resourceful and dedicated full-stack engineer</h3>
+<h3 align="center">A resourceful and dedicated full-stack developer</h3>
 
 - 👨‍💻 Check out my personal website [https://michaelrmartin.github.io](https://michaelrmartin.github.io)
   
